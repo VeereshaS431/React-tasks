@@ -1,5 +1,33 @@
 .App {
+  /* text-align: center; */
+  display: flex;
+  justify-content: space-around;
+}
+.function{
+  display: flex;
+  flex-direction: column;
+  row-gap: 10px;
+}
+.classComp{
+  display: flex;
+  flex-direction: column;
+  row-gap: 10px;
+}
+img{
+  width: 340px;
+  height: 200px;
+}
+table,th,td{
+  border: 1px solid black;
+  border-collapse: collapse;
   text-align: center;
+
+}
+
+form{
+  display: flex;
+  flex-direction: column;
+  row-gap: 10px;
 }
 
 .App-logo {
