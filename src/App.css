@@ -64,3 +64,24 @@ form{
     transform: rotate(360deg);
   }
 }
+
+
+
+.md{
+  border: 1px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 400px;
+  width: 700px;
+  gap: 60px;
+}
+.pp{
+  font-size: 30px;
+}
+.submit{
+  text-align: center;
+  width: 100px;
+  height: 35px;
+
+}
