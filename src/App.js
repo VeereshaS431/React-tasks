@@ -9,6 +9,7 @@ import CustomForm from './classComponents/formClass';
 import CustomList from './classComponents/listClass';
 import CustomTables from './classComponents/tableclass';
 import Customimg from './classComponents/imggClass';
+import List from './functionComponents/list';
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
         <Tables />
         <Forms />
         <Lists />
+        <List/>
       </div>
 
       <div className='classComp'>
