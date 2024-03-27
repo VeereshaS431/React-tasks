@@ -16,6 +16,11 @@ const SignUp = () => {
       <lable htmlFor='Mobile'>Mobile : </lable>
       <input type='number' name='firstanme' id='Mobile' placeholder='enter Mobile'/><br></br><br></br>
       <input type='submit' className='submit'/>
+
+
+
+
+      
     </div>
   )
 }
