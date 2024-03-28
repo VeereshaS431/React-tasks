@@ -1,12 +1,8 @@
 table,th,tr,td{
-  border :2px solid;
+  border :2px solid black;
   border-collapse: collapse;
-<<<<<<< HEAD
 }
-=======
-  text-align: center;
-
-}
+  
 
 form{
   display: flex;
@@ -122,4 +118,3 @@ form{
   border-radius: 20px;
   /* color: blue; */
 }
->>>>>>> f66ca1e3385cd819dc712a5405dc99d863b8c141
