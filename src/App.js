@@ -1,13 +1,16 @@
 
 import './App.css';
-import Table from './surya\'s table/table';
+import CustomTable from './classComponents/table';
 
+
+import List from './functionComponents/list';
 
 function App() {
   return (
     
     <div className="App">
-     <Table/>
+        <List/>
+    <CustomTable/>
     </div>
     
     
