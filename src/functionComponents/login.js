@@ -2,7 +2,7 @@ function LoginComponent(){
     return(
         <div class='gh'>
         <h4>LOGIN HERE</h4>
-        <form>
+        <form> 
             <div class="form-group">
                 <label for="username">Username:</label>
                 <input type="text" id="username" name="username" required/>
