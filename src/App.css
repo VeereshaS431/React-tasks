@@ -1,25 +1,9 @@
-.App {
-  /* text-align: center; */
-  display: flex;
-  justify-content: space-around;
-}
-.function{
-  display: flex;
-  flex-direction: column;
-  row-gap: 10px;
-}
-.classComp{
-  display: flex;
-  flex-direction: column;
-  row-gap: 10px;
-}
-img{
-  width: 340px;
-  height: 200px;
-}
-table,th,td{
-  border: 1px solid black;
+table,th,tr,td{
+  border :2px solid;
   border-collapse: collapse;
+<<<<<<< HEAD
+}
+=======
   text-align: center;
 
 }
@@ -85,3 +69,4 @@ form{
   height: 35px;
 
 }
+>>>>>>> f66ca1e3385cd819dc712a5405dc99d863b8c141
